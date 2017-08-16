@@ -28,3 +28,4 @@ def find_sum_len(slef,root,s,result,temp,len1):
                 if(len(temp)>0):
                     temp.pop()
     return result
+    
